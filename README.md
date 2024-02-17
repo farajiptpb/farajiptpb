@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahdi Faraji
 - 👀 I’m interested in scientific programing, backend development and machine learning 
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning machine learning and deep leaning
 
 
 <!---
